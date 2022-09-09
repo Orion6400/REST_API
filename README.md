@@ -16,7 +16,7 @@ To add a new flower instance, add a JSON object and make a POST request. For exa
         "city": "Kanpur"
 }
 
-To get/update particular Student instance: http://127.0.0.1:8000/studentapi/<id> For example,
+To get/update particular Student instance: http://127.0.0.1:8000/studentapi/  <id> For example,
 http://127.0.0.1:8000/studentapi/1
 
 
